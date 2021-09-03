@@ -51,6 +51,9 @@ We have prepared Jupyter Notebooks that utilize the data described above to repr
 * [Getting Twitter Data](https://github.com/Mangul-Lab-USC/Twitter-editorial)
 * [Data Preparation and Analysis](https://github.com/Mangul-Lab-USC/Twitter-editorial)
 
+# Note
+
+All the scripts were run in UCLA Hoffman2 cluster. For reproducing the results, please change the paths in the code.
 
 # License
 
